@@ -9,6 +9,8 @@ name = "pypi"
 
 gensim = "*"
 ipython = "*"
+numpy = "*"
+scipy = "*"
 
 
 [dev-packages]
