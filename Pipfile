@@ -11,6 +11,7 @@ gensim = "*"
 ipython = "*"
 numpy = "*"
 scipy = "*"
+google-cloud-vision = "*"
 
 
 [dev-packages]
